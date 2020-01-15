@@ -50,7 +50,7 @@ const TaskList = props => {
       <table className="table is-fullwidth is-hoverable is-striped">
         <thead>
           <tr>
-            <th>complete</th>
+            <th>status</th>
             <th>task</th>
           </tr>
         </thead>
